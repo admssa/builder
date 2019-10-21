@@ -26,6 +26,6 @@ s3transfer==0.1.11
 six==1.11.0
 urllib3==1.22
 websocket-client==0.40.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 Tornado==4.4.2
 coralogix_logger==1.0.28
